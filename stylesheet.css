@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color: #55e685;
+}
+#Headersection{
+    padding: 10px;
+}
+#headersection h1{
+    font-family: cursive;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#Dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 18%; 
+}
+#loginbtn{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #c4fc42; 
+    font-size: 20px;  
+}
+#adress{
+    width: 37%;
+}
+#imagepart{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    width: 30%;
+}
+#role{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    width: 30%;
+    font-size: 20px; 
+
+}
+#role select{
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 20px; 
+}
+button{
+    font-size: 20px; 
+    background-color: #c4fc42;    
+
+}
